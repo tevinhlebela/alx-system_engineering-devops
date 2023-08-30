@@ -1,2 +1,2 @@
 #!/bin/bash
-cd $(cat ~/.previous_directory)
+cd $(cat ~/var)
